@@ -12,14 +12,3 @@ if ask == "y":
         print("The number is ..." + str(yep))
 else:
     print("No problem. But please do give it a try. ")
-
-
-
-
-
-
-
-
-
-
-
